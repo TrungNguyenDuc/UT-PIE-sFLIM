@@ -32,12 +32,16 @@ The code provides tools for:
 - **Hybrid Unmixing**: A method combining lifetime and spectral phasors for improved unmixing of overlapping fluorescence signals using GMM.
 
 ## Usage
-[Phasor-sFLIM manual](Phasor-sFLIM manual.docx)
 
+Phasor-sFLIM manual.docx in this repository
 
 ## Example Data
 
-
+https://zenodo.org/records/14270208
 
 ## References
+
+1. Trung Duc Nguyen, Yuan-I Chen, Anh-Thu Nguyen, Limin H. Chen, Siem Yonas, Mitchell Litvinov, Yujie He, Yu-An Kuo, Soonwoo Hong, H. Grady Rylander, and Hsin-Chih Yeh, "Multiplexed imaging in live cells using pulsed interleaved excitation spectral FLIM," Opt. Express 32, 3290-3307 (2024). https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-3-3290&id=545659
+2. Trung Duc Nguyen, Yuan-I Chen, Anh-Thu Nguyen, Siem Yonas, Manasa P. Sripati, Yu-An Kuo, Soonwoo Hong, Mitchell Litvinov, Yujie He, Hsin-Chih Yeh, and H. Grady Rylander, "Two-photon autofluorescence lifetime assay of rabbit photoreceptors and retinal pigment epithelium during light-dark visual cycles in rabbit retina," Biomed. Opt. Express 15, 3094-3111 (2024). https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-3-3290&id=545659
+
 
