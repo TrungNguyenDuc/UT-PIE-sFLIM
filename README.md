@@ -32,7 +32,7 @@ The code provides tools for:
 - **Hybrid Unmixing**: A method combining lifetime and spectral phasors for improved unmixing of overlapping fluorescence signals using GMM.
 
 ## Usage
-**Phasor-sFLIM manual**
+[Phasor-sFLIM manual](Phasor-sFLIM manual.docx)
 
 
 ## Example Data
